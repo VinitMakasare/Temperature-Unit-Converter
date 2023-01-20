@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div{
+  border: 2px solid black;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+label{
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  font-size:50px;
+} 
+
+input{
+  margin: 5px;
+  width: 145px;
+  border-radius: 5px;
+  height: 34px;
+}
+select{
+  margin: 5px;
+  width: 145px;
+  border-radius: 5px;
+  height: 34px;
+}
+
+
+span{
+  font-size: 50px;
+ 
+}
